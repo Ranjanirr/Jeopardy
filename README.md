@@ -10,8 +10,7 @@
   
 ## Main Insights
 
-- The main insight is that 70 percent of important words in each question were used in a previous question. Studying past questions can help prepare for future questions because terms and
-- topics are recycled throughout jeopardy.
+- The main insight is that 70 percent of important words in each question were used in a previous question. Studying past questions can help prepare for future questions because terms and topics are recycled throughout jeopardy.
 
 - Other notes:
 - Answers are hardly ever found within the questions
