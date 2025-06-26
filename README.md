@@ -17,4 +17,4 @@
 - Question length does not really vary by value
 - It is possible to find how many terms are similar/recycled per category
 
-- 
+  
