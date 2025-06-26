@@ -7,7 +7,7 @@
 
 - `jeopardy.ipynb` - Main Jupyter Notebook with code and analysis.
 - `data/` - jeopardy.csv = extracted from (https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
-- 
+  
 ## Main Insights
 
 - The main insight is that 70 percent of important words in each question were used in a previous question. Studying past questions can help prepare for future questions because terms and
